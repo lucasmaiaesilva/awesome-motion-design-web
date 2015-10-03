@@ -11,3 +11,8 @@
 - @keyframes
 	- [Keyframes animation sintax - CSS Tricks](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 	- [Using Css Animations - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+-  transform
+    - [Property Transform Almanac - CSS Tricks](https://css-tricks.com/almanac/properties/t/transform/)
+    - [CSS Transform - MDN](https://developer.mozilla.org/en/docs/Web/CSS/transform)
+    - [Using CSS Transforms - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+  
