@@ -6,3 +6,8 @@
 
 ### Definitions
 - [The art of timing and spacing](https://www.youtube.com/watch?v=KRVhtMxQWRs)
+
+### CSS3
+- @keyframes
+	- [Keyframes animation sintax - CSS Tricks](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+	- [Using Css Animations - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
