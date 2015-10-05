@@ -15,4 +15,8 @@
     - [Property Transform Almanac - CSS Tricks](https://css-tricks.com/almanac/properties/t/transform/)
     - [CSS Transform - MDN](https://developer.mozilla.org/en/docs/Web/CSS/transform)
     - [Using CSS Transforms - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- Libraries for animation
+    - [Animate CSS](https://daneden.github.io/animate.css/)
+    - [DynCSS](http://www.vittoriozaccaria.net/dyn-css/)
+    
   
