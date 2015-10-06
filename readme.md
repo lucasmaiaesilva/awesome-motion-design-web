@@ -18,5 +18,6 @@
 - Libraries for animation
     - [Animate CSS](https://daneden.github.io/animate.css/)
     - [DynCSS](http://www.vittoriozaccaria.net/dyn-css/)
+    - [SpinKit Simple CSS Spiners](http://tobiasahlin.com/spinkit/)
     
   
