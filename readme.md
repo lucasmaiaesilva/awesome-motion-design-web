@@ -21,9 +21,6 @@
     - [SpinKit Simple CSS Spiners](http://tobiasahlin.com/spinkit/)
     - [Magic CSS3 Animation](http://www.minimamente.com/example/magic_animations/)
 
-###Articles
-- [Motion UI com estilos](http://www.tableless.com.br/motion-ui-com-estilos-zeh-fernandes-no-meetup-css-sp/)
-
-###Blogs
+### Blogs
 - [Motion Design Blog](http://www.motiondesign.com.br/blog/)    
   
