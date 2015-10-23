@@ -22,6 +22,14 @@
     - [Magic CSS3 Animation](http://www.minimamente.com/example/magic_animations/)
     - [Bounce Js](http://bouncejs.com/)
     - [Buttons UI](http://unicorn-ui.com/buttons/)
+    - [Ani JS](http://anijs.github.io/)
+    - [Single Element CSS Spinner](http://projects.lukehaas.me/css-loaders/)
+    - [CSS Shake](http://elrumordelaluz.github.io/csshake/#1)
+    - [Odometer](http://github.hubspot.com/odometer/docs/welcome/)
+    - [Hover CSS](http://ianlunn.github.io/Hover/)
+    - [Anima CSS](http://lvivski.com/anima/)
+    - [AnimaTable](http://leaverou.github.io/animatable/)
+    - [TriDiv](http://tridiv.com/)
 
 ### Blogs
 - [Motion Design Blog](http://www.motiondesign.com.br/blog/)    
